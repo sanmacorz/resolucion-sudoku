@@ -23,7 +23,8 @@ python3 main.py
 ## Capturas de pantalla
 
 La interfaz gráfica del proyecto mostrando el resultado de un sudoku:
-![Screenshot1](https://user-images.githubusercontent.com/27830167/202340360-0bca045d-a3a0-41e5-b07a-6d8606df088f.png)
+![Screenshot1](https://user-images.githubusercontent.com/27830167/202340360-0bca045d-a3a0-41e5-b07a-6d8606df088f.png)  
+
 La aplicación [Ksudoku](https://github.com/KDE/ksudoku) mostrando el mismo resultado, nótese que el algoritmo utilizado aquí es el de [Dancing Links](https://en.wikipedia.org/wiki/Dancing_Links):
 
 ![Screenshot2](https://user-images.githubusercontent.com/27830167/202340371-2e2921a4-b613-48bc-b8ef-f31c1d89490d.png)
